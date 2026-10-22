@@ -1,3 +1,4 @@
+
 # FYPTrack
 
 FYPTrack is an Intelligent Final Year Project Management and Automation System for universities. It is being developed to support students, supervisors, and coordinators through the final year project lifecycle.
